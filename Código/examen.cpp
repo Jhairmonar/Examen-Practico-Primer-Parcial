@@ -260,7 +260,3 @@ int main() {
     cout << "\n[!] Sistema desconectado. Fin de la transmision.\n";
     return 0;
 }
-
-
-
-// HOLAAAAAAAAAAAAAAAAAAAAAAAAA
