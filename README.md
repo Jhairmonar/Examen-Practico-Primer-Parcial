@@ -1,9 +1,9 @@
-# [cite_start]Examen Práctico Integrador de C++ - Grupo H [cite: 2, 70]
+#Examen Práctico Integrador de C++ - Grupo H
 
-[cite_start]**Asignatura:** Algoritmos de Programación / Programación en C++ [cite: 4]  
-[cite_start]**Caso Asignado:** Grupo H - Parqueadero universitario y control de infracciones [cite: 163]  
+**Asignatura:** Algoritmos de Programación / Programación en C++ 
+**Caso Asignado:** Grupo H - Parqueadero universitario y control de infracciones 
 
-## [cite_start]1. Descripción del Proyecto [cite: 36]
+## 1. Descripción del Proyecto
 Este repositorio contiene la solución al examen práctico integrador desarrollado en C++. [cite_start]El sistema gestiona el parqueadero de un campus universitario, controlando los ingresos, salidas, tiempos de permanencia, tarifas y sanciones de los vehículos[cite: 164]. [cite_start]Además, el proyecto integra un módulo obligatorio del juego "Ahorcado", adaptado al vocabulario técnico del caso principal[cite: 51, 64].
 
 ## [cite_start]2. Metodología de Desarrollo [cite: 18, 36]
